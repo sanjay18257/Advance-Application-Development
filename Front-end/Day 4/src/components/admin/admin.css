@@ -1,0 +1,86 @@
+  
+
+  .admin-container
+  {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    
+  }
+ 
+  .logout
+  {
+    text-decoration: none;
+    list-style: none;
+    margin-top: 12rem;
+    margin-left: -4.6rem;
+    font-weight: 600;
+    font-size: larger;
+  }
+  .adminlogo
+  {
+    margin-top: 2rem;
+    margin-left: 3rem;
+    font-size: large;
+    font-weight: 700;
+    border-color: white;
+    border-radius: 1px white;
+
+  }
+.panel-link
+{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 3rem;
+  margin-left: 2.4rem;
+  font-weight: 600;
+  font-size: medium;
+  border-color: white;
+  
+
+}
+  .nav-containerr
+  {
+    display: flex ; 
+    align-items: center ;
+    margin-top: 1rem;
+    width: 70rem;
+    height: 4rem;
+    background-color: white;
+    gap: 10rem;
+    border-radius: .7rem;
+  }
+  .pannel-container
+  {
+    width: 15rem;
+    height: 100vh;
+    background-color: #10163a;
+    color: white;
+  }
+
+  .navlinkss
+  {
+    display: flex;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 2rem;
+    column-gap: 2rem;
+    color: black;
+    margin-left: 19rem;
+    background-color: white;
+  }
+
+  .prof
+  {
+    width: 3.8rem;
+    height: 5rem;
+    padding-top: .4rem;
+    margin-left: 8rem;
+
+  }
+  .g-chart
+  {
+    
+  }
