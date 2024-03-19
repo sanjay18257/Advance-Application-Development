@@ -1,0 +1,21 @@
+.landing-container
+{
+  
+}
+
+
+.section1
+{
+  background-image: url('../../assets/login2.jpg');
+  background-position: contain;
+  width:100%;
+  background-repeat: no-repeat;
+}
+
+.section2
+{
+  background-image: url('../../assets/login2.jpg');
+  background-position: contain;
+  width:100%;
+  background-repeat: no-repeat;
+}
