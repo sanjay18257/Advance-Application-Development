@@ -1,0 +1,28 @@
+.usercomp
+{
+  display: flex;
+  flex-direction: row;
+  gap: 6.7rem;
+}
+.nav-container
+{
+  width: 80rem;
+  height: 3rem;
+  background-color: black;
+  color: white;
+}
+.user-navlinks
+{
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+  font-size: large;
+  font-weight: 600;
+  width:90rem;
+  background-color: black;
+  color:white;
+  height: 4rem;
+  align-items: center;
+  padding-left: 30rem;
+  
+}

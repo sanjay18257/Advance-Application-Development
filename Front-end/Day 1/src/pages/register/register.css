@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&family=Noto+Sans+Lao+Looped:wght@100..900&family=Rubik+80s+Fade&display=swap');
+
+
+.signup-container {
+  display: flex;
+  
+}
+
+.image-container {
+  width: 50%;
+  background-color: #ffffff;
+  position: relative;
+
+}
+.image
+{
+  width: 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: block;
+  
+}
+.form-content
+{
+  margin-top: -3rem;
+}
+.form-container {
+  width: 50%;
+  background-color: #ffffff;
+  color: black;
+}
+.form-lines
+{
+  padding-left: 1.7rem;
+  padding-bottom: 4rem;
+}
+
+.input
+{
+  width: 18rem;
+  height: 2.5rem;
+  font-size: medium;
+  color: black;
+  font-weight: 500;
+  margin-left: 4rem;
+  padding-left: 1rem;
+  margin-bottom: .8rem;
+  border: solid 1.1px rgb(101, 98, 98);
+  transition: all .3s ease;
+  border-radius: .4rem;
+  opacity: 6rem;
+
+}
+.input:focus
+{
+  border-color: blue;
+}
+.label
+{
+  margin-left: 4rem;
+}
+.reg-btn
+{
+  width: 8.30rem;
+  height: 2.5rem;
+  margin-top: 1rem;
+  margin-left: 4rem;
+  
+  color: white;
+  background-color: rgb(97, 97, 135);
+  border-radius: .5rem;
+  border-width: .3px;
+  text-align: center;
+  font-size: medium;
+  font-weight: 500;
+}
+.logbut
+{
+ 
+  margin-top: 1rem;
+  margin-left:6.5rem ;
+  color: blue;
+  font-size: medium;
+  font-weight: 500;
+}
