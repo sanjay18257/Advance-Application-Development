@@ -1,0 +1,11 @@
+body
+{
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.location
+{
+  width: 30rem;
+  height: 4rem;
+  
+}
